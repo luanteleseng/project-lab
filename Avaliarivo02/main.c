@@ -28,7 +28,7 @@ int main(int argc, char **argv){
         size -= nrows;
         size++;
 
-        // FUNÇÕES CHAMANDO NA LINHA DE COMANDO
+        // FUNÃ‡Ã•ES CHAMANDO NA LINHA DE COMANDO
         if(arg_p){
             ContarPalavras(content, size);
         }
